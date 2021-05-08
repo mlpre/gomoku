@@ -1,7 +1,27 @@
-## Gomoku(五子棋)
+## 五子棋(Gomoku)
 
-* JavaFX开发，完成基础五子棋Demo，包含基本UI功能，待优化
+* ### 亮点
 
-### TODO
+    * 舒适简约的UI设计
 
-* 该项目最终目的是为了实现AI学习下棋，待实现
+    * 实现了五子棋基本功能
+
+    * 使用JDK16和JavaFX16开发
+
+    * 使用jlink和jpackage完成打包
+
+* ### 构建要求
+
+    * Maven
+
+    * JDK16
+
+* ### 如何使用:
+
+    * 下载: [Releases](https://github.com/min-li/know-you-player/releases)
+
+    * 构建:
+
+        * mvn javafx:jlink
+
+        * 执行 build.bat
