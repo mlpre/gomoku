@@ -18,7 +18,7 @@
 
 * ### 如何使用:
 
-    * 下载: [Releases](https://github.com/min-li/know-you-player/releases)
+    * 下载: [Releases](https://github.com/min-li/gomoku/releases)
 
     * 构建:
 
