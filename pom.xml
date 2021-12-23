@@ -48,7 +48,7 @@
                 <artifactId>javafx-maven-plugin</artifactId>
                 <version>0.0.8</version>
                 <configuration>
-                    <mainClass>ml.minli.Gomoku</mainClass>
+                    <mainClass>gomoku/ml.minli.Gomoku</mainClass>
                 </configuration>
             </plugin>
         </plugins>
