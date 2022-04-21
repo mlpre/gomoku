@@ -1,4 +1,4 @@
-package ml.minli;
+package io.github.mlpre;
 
 import javafx.application.Application;
 import javafx.fxml.FXMLLoader;

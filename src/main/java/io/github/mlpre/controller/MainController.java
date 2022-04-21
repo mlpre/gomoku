@@ -1,4 +1,4 @@
-package ml.minli.controller;
+package io.github.mlpre.controller;
 
 import javafx.collections.ObservableList;
 import javafx.event.EventHandler;
